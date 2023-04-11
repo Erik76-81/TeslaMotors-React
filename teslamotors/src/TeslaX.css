@@ -1,0 +1,32 @@
+
+
+.parametr{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    color: white;
+    margin-bottom: 5%;
+}
+.parametr>div>h2{
+    font-size: 30px;
+}
+.parametr>div>h2>span{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.gic{
+    height: 1px;
+    width: 60%;
+    background-color: white;
+    align-self: center;
+}
+
+#teslaX{
+    height: 100vh;
+    background-image: url(https://wallpapercave.com/wp/wp9204197.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: flex-end;
+}
